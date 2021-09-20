@@ -1,0 +1,36 @@
+.heading{
+      color: red;
+      text-underline-position: auto;
+}
+#paragraph{
+      color: red;
+      font-style: italic;
+      font-size: .5cm ;
+      font-weight: bold;
+}
+.list{
+      line-height: 40px;
+      color: crimson;
+      
+}
+.topic{
+      color: red;
+      font-family: 'Times New Roman', Times, serif;
+      font-weight: bold;
+      font-style: italic;
+}
+.seriral{
+      color: crimson;
+      font-family: 'Times New Roman', Times, serif;
+      font-size: medium;
+      font-weight: lighter;
+      letter-spacing: 3px;
+}
+.text{
+      color: crimson; 
+}
+.img{
+      font-style: italic;
+      background-color: yellow; 
+      width: 100px
+}
